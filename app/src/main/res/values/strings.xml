@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalPorject</string>
+    <string name="logo">Logo</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="register">Register Here.</string>
+    <string name="fb">FB</string>
+    <string name="ins">Ins</string>
+    <string name="tw">TW</string>
+</resources>
